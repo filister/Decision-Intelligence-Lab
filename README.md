@@ -1,30 +1,54 @@
 # Decision-Intelligence-Lab
-Building intelligent decision-support systems that transform business data into actionable recommendations through analytics, statistical modelling, AI, and visualisation
-Project 001
 
-Executive Business Health Assessment
+> Building intelligent decision-support systems that transform business data into actionable recommendations through analytics, statistical modelling, AI, and visualisation.
 
-Objective
+## Vision
 
-Assess the health of an eCommerce business by analysing
-sales performance, customer behaviour, pricing strategy,
-and operational metrics.
+Decision Intelligence Lab is a growing portfolio of real-world analytics, decision intelligence, and AI projects focused on helping organisations make better decisions under uncertainty.
 
-Business Questions
+The lab explores how data, mathematics, statistical modelling, machine learning, and artificial intelligence can be combined to solve complex business problems across industries such as eCommerce, maritime operations, logistics, finance, healthcare, and education.
 
-• Which products drive revenue?
-• Which regions perform best?
-• Does discounting improve revenue?
-• Do delivery times influence customer satisfaction?
-• What recommendations should management consider?
+## Objectives
 
-Tools
+- Transform raw data into executive-level insights.
+- Build intelligent decision-support systems.
+- Apply statistical and mathematical modelling to real business problems.
+- Develop AI-assisted analytics workflows.
+- Create reusable analytics frameworks for multiple industries.
 
-Python
-Pandas
-Matplotlib
-NumPy
+## Current Projects
 
-Status
+- Project 001 – Executive Business Health Assessment
+- Project 002 – Revenue Intelligence System *(Planned)*
+- Project 003 – Customer Intelligence *(Planned)*
+- Project 004 – Forecasting & Decision Support *(Planned)*
+- Project 005 – Maritime Fleet Intelligence *(Planned)*
 
-Completed
+## Technology Stack
+
+- Python
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Statistical Modelling
+- Machine Learning
+- Artificial Intelligence
+
+## Repository Structure
+
+```
+Decision-Intelligence-Lab/
+│
+├── projects/
+├── notebooks/
+├── reports/
+├── dashboards/
+├── images/
+└── README.md
+```
+
+## Long-Term Goal
+
+To build a comprehensive portfolio demonstrating how modern analytics, AI, and mathematical modelling can support strategic decision-making in complex real-world environments.
